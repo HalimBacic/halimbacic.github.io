@@ -7,6 +7,7 @@
             <a href="/files/HalimBacicCV.pdf" download="HalimBacicCV.pdf" class="nav-link-reset">
                 <div class="navbtn">Download CV</div>
             </a>
+            <div class="navbtn">Projects</div>
         </div>
         <div class="middle">
             <div class="imagecont">
@@ -71,7 +72,7 @@ body,
     padding: 0;
     height: 100%;
     width: 100%;
-    overflow: hidden;
+    overflow-y: auto;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
     background-color: #495E57;
